@@ -1,5 +1,6 @@
-IEEE PAPER
-
-Enhanced sales forecasting of perishable and non- perishable goods using weather data with insights on Imports and price sensitivity
+IEEE PAPER - Enhanced sales forecasting of perishable and non- perishable goods using weather data with insights on Imports and price sensitivity
 
 https://ieeexplore.ieee.org/document/11042488
+
+Abstract:
+In the competitive restaurant industry, success hinges on accurate demand forecasting and optimal pricing strategies. Weather factors such as temperature, rain, and seasonal changes significantly impact consumer behavior, particularly affecting sales of goods categorized as highly perishable (e.g., fresh produce, dairy), perishable (e.g., bread, meat), and non-perishable (e.g., canned goods, dry ingredients). The project leverages historical weather patterns, ingredient prices, and machine learning to forecast sales and implement dynamic pricing, with a focus on import status and price sensitivity. Using Random Forest and ARIMA models, the system conducts time series analysis for precise demand prediction. Built with Python and utilizing libraries like scikit-learn and pandas, the project processes real-time weather and ingredient price data to enable timely price adjustments and inventory management. The data-driven approach empowers restaurants to maximize revenue, optimize menu pricing, and enhance customer satisfaction in a fluctuating market.
