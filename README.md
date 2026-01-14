@@ -5,7 +5,7 @@ The system preprocesses multi-source data, performs feature engineering on weath
 
 The insights generated from this project support inventory optimization, reduced wastage for perishables, improved supply chain planning, and data-driven pricing strategies. The solution is designed to be modular, extensible, and applicable to real-world retail and distribution scenarios.
 
-# DASHBOARD IMAGES
+# ANALYTICAL VISUALIZATIONS
 
 ![image alt](https://github.com/hannejenifer/Weather-Driven-Sales-Forecasting/blob/97f4a036c572873c2fc94c5b39aa091488439ff0/Model%20Evaluation%20Metrics.png)
 
